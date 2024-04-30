@@ -1,5 +1,5 @@
 site_name: HMS Documentation
-site_url:
+site_url: https://docs.hms.cx
 theme:
   name: material
   palette:
