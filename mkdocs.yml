@@ -10,7 +10,7 @@ theme:
     text: Quicksand
   language: en
   logo: assets/logo.png
-  favicon: images/loog.png
+  favicon: images/logo.png
 extra:
   consent:
     title: Cookie consent
