@@ -2,3 +2,6 @@ site_name: HMS Documentation
 site_url:
 theme:
   name: material
+  palette:
+    scheme: slate
+    
