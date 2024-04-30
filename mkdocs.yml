@@ -4,4 +4,7 @@ theme:
   name: material
   palette:
     scheme: slate
-    
+    primary: light green
+    accent: light blue
+  font:
+    text: Quicksand
