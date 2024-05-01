@@ -34,7 +34,7 @@ WireGuard is a modern and efficient VPN protocol known for its simplicity and sp
 
 !!! info "Don't have a VPN Configuration File?"
 
-    No problem. Just reach out to me (Jake) and I will provide you with a configuration file. You will need one per device. If you need a new one, please contact me to let me know. Please do not share or give out your configuration files. 
+    **No problem. Just reach out to me (Jake) and I will provide you with a configuration file. You will need one per device. If you need a new one, please contact me to let me know. Please do not share or give out your configuration files.** 
 
 1. **Install WireGuard:** Start by installing the WireGuard software on your device. You can find installation instructions for your specific operating system on the WireGuard website. - [Wireguard VPN Download](https://wireguard.com/install/)
 
