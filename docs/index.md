@@ -38,7 +38,7 @@ WireGuard is a modern and efficient VPN protocol known for its simplicity and sp
 
 1. **Install WireGuard:** Start by installing the WireGuard software on your device. You can find installation instructions for your specific operating system on the WireGuard website. - [Wireguard VPN Download](https://wireguard.com/install/)
 
-2. **Download VPN Config File:** Download the VPN configuration file provided by your VPN service provider. This file contains the necessary settings and information to connect to the VPN server. 
+2. **Download / Find VPN Config File:** Download or Find the VPN configuration file provided to you, from me. This file contains the necessary settings and information to connect to the VPN server. 
 
 3. **Import Config File to setup VPN connection:** Import the downloaded VPN configuration file into your WireGuard software to set up the VPN connection. This file contains the server details, encryption keys, and other settings required for the connection.
 
