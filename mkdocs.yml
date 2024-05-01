@@ -5,8 +5,6 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
     - navigation.path
