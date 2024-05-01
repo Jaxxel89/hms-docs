@@ -43,3 +43,7 @@ WireGuard is a modern and efficient VPN protocol known for its simplicity and sp
 2. **Import Config File to setup VPN connection:** Import the downloaded VPN configuration file into your WireGuard software to set up the VPN connection. This file contains the server details, encryption keys, and other settings required for the connection.
 
 3. **Connect to the VPN:** Finally, connect to the VPN server using the WireGuard software on your device. Once connected, your internet traffic will be encrypted and routed through the VPN server, ensuring a secure and private connection.
+
+
+**For more detailed information and quick download links, please jump to the [Wireguard Page](https://docs.hms.cx/wireguard/)**
+

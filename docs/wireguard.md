@@ -44,3 +44,12 @@ WireGuard VPN creates a secure tunnel between your device and the VPN server. Th
     - Your VPN connection is now active, and you can browse the internet securely and privately.
 
 By following these steps, you can install, import a config file, and start using WireGuard VPN for enhanced online privacy and security.
+
+## Download Links for Wireguard Clients
+
+| Operating System | Download Links                 |
+| :---------- | :-----------------------------------|
+| `Windows 7,8,10,11` | [Windows Istaller](https://download.wireguard.com/windows-client/wireguard-installer.exe)  |
+| `MacOS`             | [MacOS Installer](https://itunes.apple.com/us/app/wireguard/id1451685025?ls=1&mt=12)       |
+| `Android`           | [Android](https://play.google.com/store/apps/details?id=com.wireguard.android)             |
+| `iOS`               | [iOS](https://itunes.apple.com/us/app/wireguard/id1441195209?ls=1&mt=8)                    |
