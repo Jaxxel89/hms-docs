@@ -1,4 +1,6 @@
-# Welcome to HMS Docs!
+# Home
+
+## Welcome to HMS Docs!
 
 Welcome to HMS Docs, your go-to resource for understanding and mastering the array of applications available on our platform. From YouTube and Spotify downloaders to audiobook and podcast managers, along with a range of other innovative tools, HMS Docs is here to guide you through the functionalities of each application. Our documentation provides detailed insights, tips, and instructions to help you leverage these tools effectively. Get ready to explore, learn, and optimize your experience across a variety of applications with HMS Docs!
 
