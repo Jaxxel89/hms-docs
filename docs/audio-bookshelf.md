@@ -46,7 +46,7 @@ Audiobookshelf is an excellent choice for audiobook enthusiasts who want a dedic
 
 !!! warning "Applications are currently in beta"
 
-    Please keep in mind these apps are currently in development and may have bugs or glitches. I do not make the apps nor can I fix them. Use at your own discrection.
+    **Please keep in mind these apps are currently in development and may have bugs or glitches. I do not make the apps nor can I fix them. Use at your own discrection.**
 
 [Android App](https://play.google.com/store/apps/details?id=com.audiobookshelf.app) - Go to the play store page.
 
@@ -54,5 +54,5 @@ Audiobookshelf is an excellent choice for audiobook enthusiasts who want a dedic
 
 !!! info "Apple store user limits"
 
-    Please be aware, that apple limits the app to only 10,000 users. So you may have to wait to test. The android version has no such limits.
+    **Please be aware, that apple limits the app to only 10,000 users. So you may have to wait to test. The android version has no such limits.**
 
