@@ -35,3 +35,14 @@ extra:
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
   copyright: Copyright &copy; 2024 Jake Cylkowski - All Rights Reserved - No reusage or duplication without explicit written permission.
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - pymdownx.betterem
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
