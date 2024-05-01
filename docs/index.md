@@ -38,12 +38,8 @@ WireGuard is a modern and efficient VPN protocol known for its simplicity and sp
 
     **No problem. Just reach out to me (Jake) and I will provide you with a configuration file. You will need one per device. If you need a new one, please contact me to let me know. Please do not share or give out your configuration files.** 
 
-1. **Install WireGuard:** Start by installing the WireGuard software on your device. You can find installation instructions for your specific operating system on the WireGuard website. - [Wireguard VPN Download](https://wireguard.com/install/)
+1. **Download / Find VPN Config File:** Download or Find the VPN configuration file provided to you, from me. This file contains the necessary settings and information to connect to the VPN server. 
 
-2. **Download / Find VPN Config File:** Download or Find the VPN configuration file provided to you, from me. This file contains the necessary settings and information to connect to the VPN server. 
+2. **Import Config File to setup VPN connection:** Import the downloaded VPN configuration file into your WireGuard software to set up the VPN connection. This file contains the server details, encryption keys, and other settings required for the connection.
 
-3. **Import Config File to setup VPN connection:** Import the downloaded VPN configuration file into your WireGuard software to set up the VPN connection. This file contains the server details, encryption keys, and other settings required for the connection.
-
-4. **Start the VPN:** Once the configuration file is imported, start the WireGuard service on your device. This will establish a secure connection to the VPN server using the settings from the imported configuration file.
-
-5. **Connect to the VPN:** Finally, connect to the VPN server using the WireGuard software on your device. Once connected, your internet traffic will be encrypted and routed through the VPN server, ensuring a secure and private connection.
+3. **Connect to the VPN:** Finally, connect to the VPN server using the WireGuard software on your device. Once connected, your internet traffic will be encrypted and routed through the VPN server, ensuring a secure and private connection.
