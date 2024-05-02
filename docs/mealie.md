@@ -2,7 +2,7 @@
 
 ## What is Mealie?
 
-Mealie is a digital tool designed to help you manage recipes and plan meals more efficiently. It is ideal for anyone looking to organize their cooking schedule and meal plans, making it easier to maintain a balanced diet or keep all favorite recipes in one accessible place.
+**Mealie** is a digital tool designed to help you manage recipes and plan meals more efficiently. It is ideal for anyone looking to organize their cooking schedule and meal plans, making it easier to maintain a balanced diet or keep all favorite recipes in one accessible place.
 
 ### What Mealie Is For:
 
