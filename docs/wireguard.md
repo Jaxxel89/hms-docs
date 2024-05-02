@@ -1,4 +1,4 @@
-# Wireguard
+# Wireguard VPN
 
 **What is WireGuard VPN?**
 

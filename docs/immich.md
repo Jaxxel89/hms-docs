@@ -1,4 +1,4 @@
-# Immich
+# Immich Photo Gallery
 
 ## Immich: Self-Hosted Photo and Video Backup
 
