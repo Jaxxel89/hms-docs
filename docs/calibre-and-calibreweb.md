@@ -110,3 +110,67 @@ Calibre-web is a web-based application that provides a user-friendly interface f
    - Provides OPDS feed support to access your collection with compatible e-book readers and applications.
 
 Calibre-web transforms your Calibre e-book library into a versatile, accessible, and shareable collection, making it an excellent tool for e-book enthusiasts who value convenience and accessibility.
+
+## Connecting to Calibre-web Using OPDS
+
+Utilizing the Open Publication Distribution System (OPDS) allows you to access your Calibre-web library directly through compatible e-book reader apps. This guide will help you set up and connect to Calibre-web using OPDS.
+
+### Setting Up OPDS in Calibre-web
+
+Ensure OPDS is enabled in your Calibre-web setup by following these steps:
+
+1. **Enable OPDS**:
+    - Log into your Calibre-web admin panel.
+    - Go to the settings or configuration section.
+    - Find the OPDS setting and enable it, usually by checking a box or toggling a switch.
+
+2. **Obtain the OPDS URL**:
+    - Once enabled, Calibre-web will provide an OPDS URL.
+    - This URL typically looks like `http://somelibraryurlhere.net/opds` and will be used in your OPDS-compatible app.
+
+### Connecting via OPDS from Your Device
+
+To connect to your Calibre-web library using OPDS, do the following:
+
+1. **Select an OPDS-Compatible App**:
+    - Download an e-book reader that supports OPDS, such as FBReader, Aldiko, or Moon+ Reader for Android, and Marvin for iOS.
+
+2. **Configure the OPDS Feed**:
+    - Open the e-book reader app.
+    - Locate the section for adding or configuring catalogs or libraries.
+    - Enter the OPDS URL from Calibre-web. You may also need to provide login credentials if your library requires authentication.
+
+3. **Access Your Library**:
+    - With the OPDS catalog added, you should be able to browse and download books directly from your Calibre-web library.
+
+### Tips for a Smooth OPDS Experience
+
+- **Network Accessibility**: Ensure your device can reach the server where Calibre-web is hosted. For internet access, proper port forwarding and security settings are needed.
+- **Secure Connections**: Use HTTPS for your OPDS feed to secure data transmission, especially over public networks.
+- **App Compatibility**: Confirm that your e-book reader app supports the OPDS version provided by Calibre-web.
+
+By integrating OPDS with Calibre-web, you can enhance the accessibility of your e-book collection across multiple devices, making your reading experience more flexible and convenient.
+
+## Popular OPDS-Compatible E-Book Reader Apps
+
+Here's a list of e-book reader apps that support OPDS, organized by platform:
+
+### Android
+- **FBReader** - Supports a wide range of formats and integrates with external dictionaries.
+- **Moon+ Reader** - Offers a smooth scroll and numerous features, including support for online ebook libraries and personal Calibre ebook servers.
+- **Aldiko** - Features an intuitive interface and supports Adobe DRM encrypted eBooks.
+- **PocketBook Reader** - Supports multiple formats and integrates with cloud storage for a comfortable reading experience.
+
+### iOS
+- **Marvin** - An advanced e-book reader for iPad and iPhone with extensive customization options and syncing capabilities.
+- **KyBook** - Supports a wide range of reading formats, offers comprehensive library management, and direct access to network libraries.
+- **MapleRead** - Known for its powerful features catering to avid readers and professionals.
+
+### Windows
+- **Freda** - Reads ePub (DRM-free), FB2, HTML, and TXT formats, and connects to online catalogs including OPDS.
+- **Calibre** - Primarily an e-book management software with reading capabilities, it accesses OPDS catalogs through plugins.
+
+### Multi-Platform
+- **Calibre Companion** - Mainly an organizer that connects to Calibre’s content server or cloud services, and works well with other reading apps to enhance your reading experience.
+
+These apps are ideal for accessing a wide range of e-book formats and online libraries, making it convenient to download and read books directly on your device.
