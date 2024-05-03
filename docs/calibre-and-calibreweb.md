@@ -119,7 +119,7 @@ Utilizing the Open Publication Distribution System (OPDS) allows you to access y
 
 !!! info
 
-    If you are just trying to connect to the library, you can skip this step. This is for setting up your own calibre-web itself.
+    **If you are just trying to connect to the library, you can skip this step. This is for setting up your own calibre-web itself.**
 
 Ensure OPDS is enabled in your Calibre-web setup by following these steps:
 
