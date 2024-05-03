@@ -134,6 +134,10 @@ Ensure OPDS is enabled in your Calibre-web setup by following these steps:
 
 ### Connecting via OPDS from Your Device
 
+!!! info
+
+    **Start here to begin connecting your reader to the library**
+
 To connect to your Calibre-web library using OPDS, do the following:
 
 1. **Select an OPDS-Compatible App**:
